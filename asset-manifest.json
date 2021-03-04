@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/reactslotmachine/static/css/main.4c8de6c8.chunk.css",
+    "main.js": "/reactslotmachine/static/js/main.663460ca.chunk.js",
+    "main.js.map": "/reactslotmachine/static/js/main.663460ca.chunk.js.map",
+    "runtime-main.js": "/reactslotmachine/static/js/runtime-main.5f645feb.js",
+    "runtime-main.js.map": "/reactslotmachine/static/js/runtime-main.5f645feb.js.map",
+    "static/js/2.cdc6410e.chunk.js": "/reactslotmachine/static/js/2.cdc6410e.chunk.js",
+    "static/js/2.cdc6410e.chunk.js.map": "/reactslotmachine/static/js/2.cdc6410e.chunk.js.map",
+    "static/js/3.75b39918.chunk.js": "/reactslotmachine/static/js/3.75b39918.chunk.js",
+    "static/js/3.75b39918.chunk.js.map": "/reactslotmachine/static/js/3.75b39918.chunk.js.map",
+    "index.html": "/reactslotmachine/index.html",
+    "static/css/main.4c8de6c8.chunk.css.map": "/reactslotmachine/static/css/main.4c8de6c8.chunk.css.map",
+    "static/js/2.cdc6410e.chunk.js.LICENSE.txt": "/reactslotmachine/static/js/2.cdc6410e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5f645feb.js",
+    "static/js/2.cdc6410e.chunk.js",
+    "static/css/main.4c8de6c8.chunk.css",
+    "static/js/main.663460ca.chunk.js"
+  ]
+}
